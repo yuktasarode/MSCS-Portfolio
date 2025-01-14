@@ -67,4 +67,3 @@ These projects demonstrate the practical application of advanced concepts in Kno
 
 Both projects underscore the value of combining technical knowledge with problem-solving strategies to address complex challenges effectively.
 
-For more details, visit the respective project repositories.
